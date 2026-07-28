@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Amol Khilari
 
-<!--
-**amolkhilari1231-sys/amolkhilari1231-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Azure DevOps Engineer
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Azure
+- Terraform
+- GitHub Actions
+- Azure DevOps
+- Docker
+- Kubernetes
+- Linux
+- Git
+- PowerShell
+
+## Certifications
+
+AZ-104 (Preparing)
+
+## Current Focus
+
+Enterprise Azure Landing Zone
+Terraform Modules
+GitHub Actions
+Azure DevOps Pipelines
